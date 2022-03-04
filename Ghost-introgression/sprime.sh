@@ -1,0 +1,1 @@
+java -jar -Xmx50g sprime.jar gt=02.BQN.Juglans_113ind.flt.vcf outgroup=list_Jsi_16inds map=2_Jsi.Ne8000.map out=2_Jsi.Ne8000_mu7.7_minS1.5e5.out excludesamples=list_Mix_32inds mu=7.7e-8  minscore=1.5e5 >log_sprime_2_Jsi_Ne8000_mu7.7_minS1.5e5 2>err_sprime_2_Jsi_Ne8000_mu7.7_minS1.5e5
