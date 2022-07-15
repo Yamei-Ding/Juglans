@@ -1,0 +1,1 @@
+<div># Citation</div><div>Ding Y. M., Cao Y., Zhang W. P., et al. Population-genomic analyses reveal bottlenecks and asymmetric introgression from Persian into iron walnut during domestication. Genome Biology, 2022, 23(1): 1-18</div>
